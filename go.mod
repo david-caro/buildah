@@ -35,7 +35,7 @@ require (
 	go.etcd.io/bbolt v1.3.5
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
+	golang.org/x/sys v0.5.0
 	k8s.io/klog v1.0.0 // indirect
 )
 
